@@ -1,0 +1,27 @@
+{
+  "shopName": "Nandos Hair Salon",
+  "tagline": "Hair salon on Church Avenue, Kensington",
+  "phone": "(718) 851-4751",
+  "address": "211 Church Ave, Brooklyn, NY 11218",
+  "hours": "Mon–Fri 9 AM – 7 PM · Sat 8:30 AM – 7 PM · Sun 9:30 AM – 4 PM",
+  "photoUrl": "hero.jpg",
+  "services": [
+    {
+      "name": "Haircuts",
+      "description": "Cuts and trims for women, men, and kids."
+    },
+    {
+      "name": "Color & styling",
+      "description": "Color, highlights, blowouts, and styling."
+    },
+    {
+      "name": "Walk-ins & appointments",
+      "description": "Call or stop by to book a time."
+    }
+  ],
+  "email": "troupe.javelin-7w@icloud.com",
+  "demoId": "nandos-hair-salon-kensington",
+  "ownerName": "us",
+  "ownerPhone": "(908) 286-8650",
+  "ownerEmail": "troupe.javelin-7w@icloud.com"
+}
